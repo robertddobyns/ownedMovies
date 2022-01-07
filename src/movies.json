@@ -10,5 +10,12 @@
   "9": {"name" :  "Happy Death Day", "year" :  2018, "key": 9},
   "10": {"name" :  "The Grudge 2", "year" :  2006, "key": 10},
   "11": {"name" :  "Saw Uncut Edition", "year" :  2004, "key": 11},
-  "12": {"name" :  "Poltergeist", "year" :  2015, "key": 12}
+  "12": {"name" :  "Poltergeist", "year" :  2015, "key": 12},
+  "13": {"name" :  "Spaceballs", "year" :  1987, "key": 13},
+  "14": {"name" :  "Innocent Blood", "year" :  1992, "key": 14},
+  "15": {"name" :  "The Ring", "year" :  2002, "key": 15},
+  "16": {"name" :  "Resident Evil: The Final Chapter", "year" :  2016, "key": 16},
+  "17": {"name" :  "Cowboys vs Zombies", "year" :  2014, "key": 17},
+  "18": {"name" :  "Body Cam", "year" :  2020, "key": 18},
+  "19": {"name" :  "Eaters", "year" :  2014, "key": 19}
 }
